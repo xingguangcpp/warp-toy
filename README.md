@@ -2,8 +2,6 @@
 
 > 原始文件夹：`warp-toy`　|　程序集：`warp-toy`
 
-《未知伤亡 / Casualties Unknown》的 BepInEx 客户端 Mod 源码（KrokMP 联机环境）。
-
 ## 说明
 
 - 本仓库为私有（private），仅作源码备份 / 版本管理。
